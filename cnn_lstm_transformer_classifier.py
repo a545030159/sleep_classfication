@@ -400,8 +400,8 @@ def train_simple_model(csv_file, epochs=50, max_samples=None):
         print(f'\nEpoch {epoch+1}/{epochs}: Train Loss={avg_train_loss:.4f}, Val Loss={avg_val_loss:.4f}, Val Acc={val_acc:.4f}')
     
     # 5. 保存模型
-    torch.save(model.state_dict(), 'simple_sleep_model.pth')
-    print("模型已保存为: simple_sleep_model.pth")
+    torch.save(model.state_dict(), 'transformer_sleep_model.pth')
+    print("模型已保存为: transformer_sleep_model.pth")
     
     # 6. 绘制训练曲线
     plt.figure(figsize=(15, 5))
@@ -668,20 +668,20 @@ if __name__ == "__main__":
         # 不同预测模式
         # 模式1: 每秒显示，预测100秒
         print("\n📊 模式1: 每秒预测结果")
-        predictions_1s = predict_realtime('simple_sleep_model.pth', csv_file, 
+        predictions_1s = predict_realtime('transformer_sleep_model.pth', csv_file, 
                                         max_predict_samples=100, print_interval=1)
         
         print("\n📊 模式2: 每10秒预测结果")  
-        predictions_10s = predict_realtime('simple_sleep_model.pth', csv_file,
+        predictions_10s = predict_realtime('transformer_sleep_model.pth', csv_file,
                                          max_predict_samples=1000, print_interval=10)
         
         print(f"✅ 预测完成")
         
         # 保存预测结果
-        with open('sleep_predictions_1s.json', 'w', encoding='utf-8') as f:
+        with open('transformer_sleep_predictions_1s.json', 'w', encoding='utf-8') as f:
             json.dump(predictions_1s, f, ensure_ascii=False, indent=2)
         
-        with open('sleep_predictions_10s.json', 'w', encoding='utf-8') as f:
+        with open('transformer_sleep_predictions_10s.json', 'w', encoding='utf-8') as f:
             json.dump(predictions_10s, f, ensure_ascii=False, indent=2)
             
         print("📄 预测结果已保存到: sleep_predictions_1s.json 和 sleep_predictions_10s.json")
