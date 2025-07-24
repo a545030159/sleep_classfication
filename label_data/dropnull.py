@@ -23,7 +23,4 @@ import pandas as pd
 
 df = pd.read_csv('label_data/labeled_device_data.csv')    
 df = df.dropna(subset="breath_line")
-df['resp_rate']=0 
-df['heart_rate'] = 0
-df['signal_intensity']=0
 df.to_csv("label_data/labeled_device_droped.csv")

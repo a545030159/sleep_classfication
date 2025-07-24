@@ -8,7 +8,7 @@ def parse_json_annotations(json_file):
         data = json.load(f)
     
     # 提取标注信息
-    annotations = data[0]['annotations'][0]['result']
+    annotations = data[2]['annotations'][0]['result']
     intervals = []
     
     for item in annotations:
@@ -75,8 +75,8 @@ def process_csv(csv_file, intervals, output_file):
 
 if __name__ == "__main__":
     # 配置文件路径
-    json_path = 'label_data/project-3-at-2025-07-23-01-17-515ceccd.json'  # JSON标注文件路径
-    csv_path = 'label_data/device_info_13D0F349200080712111959D07_20250623.csv'  # 原始CSV文件路径
+    json_path = 'label_data/project-4-at-2025-07-24-02-54-88926da0.json'  # JSON标注文件路径
+    csv_path = 'label_data/device_info_13D7F349200080712111954D07_20250623.csv'  # 原始CSV文件路径
     output_path = 'label_data/labeled_device_data.csv'  # 输出带标签的CSV文件路径
     
     # 解析标注区间

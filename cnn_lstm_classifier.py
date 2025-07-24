@@ -521,7 +521,7 @@ def set_seed(seed=42):
 if __name__ == "__main__":
     set_seed(42)
     # 你的CSV文件路径
-    csv_file = "label_data/labeled_device_droped.csv"
+    csv_file = "label_data/merged_labeled_device_data.csv"
     
     print("🚀 开始训练3类睡眠分期模型...")
     print("="*50)

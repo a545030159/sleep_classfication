@@ -637,7 +637,7 @@ if __name__ == "__main__":
     
     set_seed(42)
     # 你的CSV文件路径
-    csv_file = "label_data/labeled_device_droped.csv"
+    csv_file = "label_data/merged_labeled_device_data.csv"
     
     print("🚀 开始训练3类睡眠分期模型...")
     print("="*50)
@@ -673,7 +673,7 @@ if __name__ == "__main__":
         
         print("\n📊 模式2: 每10秒预测结果")  
         predictions_10s = predict_realtime('transformer_sleep_model.pth', csv_file,
-                                         max_predict_samples=1000, print_interval=10)
+                                         max_predict_samples=1000, print_interval=60)
         
         print(f"✅ 预测完成")
         
