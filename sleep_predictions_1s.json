@@ -3,700 +3,700 @@
     "second": 0,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.7703965902328491,
+    "confidence": 0.9999998807907104,
     "timestamp": "第0秒"
   },
   {
     "second": 1,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.969963014125824,
+    "confidence": 0.9998608827590942,
     "timestamp": "第1秒"
   },
   {
     "second": 2,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9551389217376709,
+    "confidence": 0.9999994039535522,
     "timestamp": "第2秒"
   },
   {
     "second": 3,
-    "stage": "浅睡眠",
-    "stage_code": 1,
-    "confidence": 0.8031398057937622,
+    "stage": "清醒",
+    "stage_code": 0,
+    "confidence": 0.9999994039535522,
     "timestamp": "第3秒"
   },
   {
     "second": 4,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.8576619625091553,
+    "confidence": 0.9999867677688599,
     "timestamp": "第4秒"
   },
   {
     "second": 5,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.959298849105835,
+    "confidence": 0.9999743700027466,
     "timestamp": "第5秒"
   },
   {
     "second": 6,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.6619135737419128,
+    "confidence": 0.9999607801437378,
     "timestamp": "第6秒"
   },
   {
     "second": 7,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.6965802311897278,
+    "confidence": 0.9999970197677612,
     "timestamp": "第7秒"
   },
   {
     "second": 8,
-    "stage": "浅睡眠",
-    "stage_code": 1,
-    "confidence": 0.5455280542373657,
+    "stage": "清醒",
+    "stage_code": 0,
+    "confidence": 0.9999891519546509,
     "timestamp": "第8秒"
   },
   {
     "second": 9,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9050737023353577,
+    "confidence": 0.9999970197677612,
     "timestamp": "第9秒"
   },
   {
     "second": 10,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.7753551602363586,
+    "confidence": 0.9999959468841553,
     "timestamp": "第10秒"
   },
   {
     "second": 11,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.839990496635437,
+    "confidence": 0.9999988079071045,
     "timestamp": "第11秒"
   },
   {
     "second": 12,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9543700218200684,
+    "confidence": 0.9999994039535522,
     "timestamp": "第12秒"
   },
   {
     "second": 13,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9767389297485352,
+    "confidence": 0.9999995231628418,
     "timestamp": "第13秒"
   },
   {
     "second": 14,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9968976974487305,
+    "confidence": 0.9999972581863403,
     "timestamp": "第14秒"
   },
   {
     "second": 15,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9996732473373413,
+    "confidence": 0.9999994039535522,
     "timestamp": "第15秒"
   },
   {
     "second": 16,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9998099207878113,
+    "confidence": 1.0,
     "timestamp": "第16秒"
   },
   {
     "second": 17,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.999737560749054,
+    "confidence": 1.0,
     "timestamp": "第17秒"
   },
   {
     "second": 18,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999308586120605,
+    "confidence": 1.0,
     "timestamp": "第18秒"
   },
   {
     "second": 19,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999778270721436,
+    "confidence": 1.0,
     "timestamp": "第19秒"
   },
   {
     "second": 20,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9997749924659729,
+    "confidence": 1.0,
     "timestamp": "第20秒"
   },
   {
     "second": 21,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.999953031539917,
+    "confidence": 1.0,
     "timestamp": "第21秒"
   },
   {
     "second": 22,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999771118164062,
+    "confidence": 1.0,
     "timestamp": "第22秒"
   },
   {
     "second": 23,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999727010726929,
+    "confidence": 1.0,
     "timestamp": "第23秒"
   },
   {
     "second": 24,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999573230743408,
+    "confidence": 1.0,
     "timestamp": "第24秒"
   },
   {
     "second": 25,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999703168869019,
+    "confidence": 1.0,
     "timestamp": "第25秒"
   },
   {
     "second": 26,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999865293502808,
+    "confidence": 0.9999998807907104,
     "timestamp": "第26秒"
   },
   {
     "second": 27,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.999981164932251,
+    "confidence": 0.9999991655349731,
     "timestamp": "第27秒"
   },
   {
     "second": 28,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999767541885376,
+    "confidence": 0.9999997615814209,
     "timestamp": "第28秒"
   },
   {
     "second": 29,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999810457229614,
+    "confidence": 0.9999998807907104,
     "timestamp": "第29秒"
   },
   {
     "second": 30,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999045133590698,
+    "confidence": 1.0,
     "timestamp": "第30秒"
   },
   {
     "second": 31,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9998775720596313,
+    "confidence": 0.9999988079071045,
     "timestamp": "第31秒"
   },
   {
     "second": 32,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9998661279678345,
+    "confidence": 0.9999996423721313,
     "timestamp": "第32秒"
   },
   {
     "second": 33,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9998076558113098,
+    "confidence": 0.9999996423721313,
     "timestamp": "第33秒"
   },
   {
     "second": 34,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9994685053825378,
+    "confidence": 0.999996542930603,
     "timestamp": "第34秒"
   },
   {
     "second": 35,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9997327923774719,
+    "confidence": 0.9999983310699463,
     "timestamp": "第35秒"
   },
   {
     "second": 36,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9996635913848877,
+    "confidence": 0.9999998807907104,
     "timestamp": "第36秒"
   },
   {
     "second": 37,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9998995065689087,
+    "confidence": 0.9999990463256836,
     "timestamp": "第37秒"
   },
   {
     "second": 38,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9997186064720154,
+    "confidence": 0.9999985694885254,
     "timestamp": "第38秒"
   },
   {
     "second": 39,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9994871616363525,
+    "confidence": 0.9999959468841553,
     "timestamp": "第39秒"
   },
   {
     "second": 40,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9989669322967529,
+    "confidence": 0.9999997615814209,
     "timestamp": "第40秒"
   },
   {
     "second": 41,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9989738464355469,
+    "confidence": 0.9999905824661255,
     "timestamp": "第41秒"
   },
   {
     "second": 42,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9988223910331726,
+    "confidence": 0.9999713897705078,
     "timestamp": "第42秒"
   },
   {
     "second": 43,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9986420273780823,
+    "confidence": 0.9998335838317871,
     "timestamp": "第43秒"
   },
   {
     "second": 44,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9960809350013733,
+    "confidence": 0.9974197149276733,
     "timestamp": "第44秒"
   },
   {
     "second": 45,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9978790283203125,
+    "confidence": 0.9962056875228882,
     "timestamp": "第45秒"
   },
   {
     "second": 46,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9971568584442139,
+    "confidence": 0.9767917990684509,
     "timestamp": "第46秒"
   },
   {
     "second": 47,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9934380650520325,
+    "confidence": 0.9896507263183594,
     "timestamp": "第47秒"
   },
   {
     "second": 48,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9987006187438965,
+    "confidence": 0.846648097038269,
     "timestamp": "第48秒"
   },
   {
     "second": 49,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9922851324081421,
+    "confidence": 0.5935672521591187,
     "timestamp": "第49秒"
   },
   {
     "second": 50,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9689440727233887,
+    "confidence": 0.9977957010269165,
     "timestamp": "第50秒"
   },
   {
     "second": 51,
-    "stage": "清醒",
-    "stage_code": 0,
-    "confidence": 0.9761343598365784,
+    "stage": "浅睡眠",
+    "stage_code": 1,
+    "confidence": 0.7211164832115173,
     "timestamp": "第51秒"
   },
   {
     "second": 52,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9393564462661743,
+    "confidence": 0.7050899863243103,
     "timestamp": "第52秒"
   },
   {
     "second": 53,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.907548725605011,
+    "confidence": 0.762544572353363,
     "timestamp": "第53秒"
   },
   {
     "second": 54,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.999718964099884,
+    "confidence": 0.9714212417602539,
     "timestamp": "第54秒"
   },
   {
     "second": 55,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9998239874839783,
+    "confidence": 0.9997749924659729,
     "timestamp": "第55秒"
   },
   {
     "second": 56,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9997848868370056,
+    "confidence": 0.999998927116394,
     "timestamp": "第56秒"
   },
   {
     "second": 57,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9973136782646179,
+    "confidence": 0.9917480945587158,
     "timestamp": "第57秒"
   },
   {
     "second": 58,
-    "stage": "清醒",
-    "stage_code": 0,
-    "confidence": 0.999736487865448,
+    "stage": "浅睡眠",
+    "stage_code": 1,
+    "confidence": 0.6491067409515381,
     "timestamp": "第58秒"
   },
   {
     "second": 59,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9997770190238953,
+    "confidence": 0.9993088245391846,
     "timestamp": "第59秒"
   },
   {
     "second": 60,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9996978044509888,
+    "confidence": 0.9949523210525513,
     "timestamp": "第60秒"
   },
   {
     "second": 61,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999868869781494,
+    "confidence": 0.9999971389770508,
     "timestamp": "第61秒"
   },
   {
     "second": 62,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9998550415039062,
+    "confidence": 0.9999997615814209,
     "timestamp": "第62秒"
   },
   {
     "second": 63,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9994404911994934,
+    "confidence": 0.9999974966049194,
     "timestamp": "第63秒"
   },
   {
     "second": 64,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9993626475334167,
+    "confidence": 0.9999954700469971,
     "timestamp": "第64秒"
   },
   {
     "second": 65,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9997023940086365,
+    "confidence": 0.9999992847442627,
     "timestamp": "第65秒"
   },
   {
     "second": 66,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9998213648796082,
+    "confidence": 0.9999997615814209,
     "timestamp": "第66秒"
   },
   {
     "second": 67,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999344348907471,
+    "confidence": 0.9999998807907104,
     "timestamp": "第67秒"
   },
   {
     "second": 68,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999610185623169,
+    "confidence": 0.9999985694885254,
     "timestamp": "第68秒"
   },
   {
     "second": 69,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.999975323677063,
+    "confidence": 0.9999998807907104,
     "timestamp": "第69秒"
   },
   {
     "second": 70,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999948740005493,
+    "confidence": 0.9999994039535522,
     "timestamp": "第70秒"
   },
   {
     "second": 71,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999978542327881,
+    "confidence": 0.9999996423721313,
     "timestamp": "第71秒"
   },
   {
     "second": 72,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999988079071045,
+    "confidence": 0.9999996423721313,
     "timestamp": "第72秒"
   },
   {
     "second": 73,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999994039535522,
+    "confidence": 0.9999992847442627,
     "timestamp": "第73秒"
   },
   {
     "second": 74,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999991655349731,
+    "confidence": 0.9999803304672241,
     "timestamp": "第74秒"
   },
   {
     "second": 75,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999991655349731,
+    "confidence": 0.9997162222862244,
     "timestamp": "第75秒"
   },
   {
     "second": 76,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999969005584717,
+    "confidence": 0.9987801909446716,
     "timestamp": "第76秒"
   },
   {
     "second": 77,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999991655349731,
+    "confidence": 0.9947991371154785,
     "timestamp": "第77秒"
   },
   {
     "second": 78,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999995231628418,
+    "confidence": 0.995317816734314,
     "timestamp": "第78秒"
   },
   {
     "second": 79,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999996423721313,
+    "confidence": 0.99366694688797,
     "timestamp": "第79秒"
   },
   {
     "second": 80,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999995231628418,
+    "confidence": 0.9941646456718445,
     "timestamp": "第80秒"
   },
   {
     "second": 81,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999995231628418,
+    "confidence": 0.9789284467697144,
     "timestamp": "第81秒"
   },
   {
     "second": 82,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999995231628418,
+    "confidence": 0.9953330159187317,
     "timestamp": "第82秒"
   },
   {
     "second": 83,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999995231628418,
+    "confidence": 0.9972189664840698,
     "timestamp": "第83秒"
   },
   {
     "second": 84,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999992847442627,
+    "confidence": 0.9971715807914734,
     "timestamp": "第84秒"
   },
   {
     "second": 85,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999990463256836,
+    "confidence": 0.964499294757843,
     "timestamp": "第85秒"
   },
   {
     "second": 86,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999986886978149,
+    "confidence": 0.983025312423706,
     "timestamp": "第86秒"
   },
   {
     "second": 87,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999990463256836,
+    "confidence": 0.9776669144630432,
     "timestamp": "第87秒"
   },
   {
     "second": 88,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999991655349731,
+    "confidence": 0.9970056414604187,
     "timestamp": "第88秒"
   },
   {
     "second": 89,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.999998927116394,
+    "confidence": 0.9987780451774597,
     "timestamp": "第89秒"
   },
   {
     "second": 90,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999986886978149,
+    "confidence": 0.9994303584098816,
     "timestamp": "第90秒"
   },
   {
     "second": 91,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999978542327881,
+    "confidence": 0.9993996620178223,
     "timestamp": "第91秒"
   },
   {
     "second": 92,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999985694885254,
+    "confidence": 0.9988111257553101,
     "timestamp": "第92秒"
   },
   {
     "second": 93,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999983310699463,
+    "confidence": 0.9978736639022827,
     "timestamp": "第93秒"
   },
   {
     "second": 94,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999970197677612,
+    "confidence": 0.9985027313232422,
     "timestamp": "第94秒"
   },
   {
     "second": 95,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999951124191284,
+    "confidence": 0.9981982111930847,
     "timestamp": "第95秒"
   },
   {
     "second": 96,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999918937683105,
+    "confidence": 0.9996606111526489,
     "timestamp": "第96秒"
   },
   {
     "second": 97,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999938011169434,
+    "confidence": 0.9992237091064453,
     "timestamp": "第97秒"
   },
   {
     "second": 98,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999942779541016,
+    "confidence": 0.9988852143287659,
     "timestamp": "第98秒"
   },
   {
     "second": 99,
     "stage": "清醒",
     "stage_code": 0,
-    "confidence": 0.9999955892562866,
+    "confidence": 0.9980161190032959,
     "timestamp": "第99秒"
   }
 ]
